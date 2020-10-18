@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 
 CLIENT = commands.Bot(command_prefix='/')
-TOKEN = 'NzY3MTIzNzY1Mjg3OTc2OTgw.X4tVrg.76zyxJjTYwMAmeVnYLJxzGKGbq0'
+TOKEN = ''
 
 URL = 'https://finance.yahoo.com/quote/'
 
