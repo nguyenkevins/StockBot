@@ -53,3 +53,10 @@ Stock Market Cash and Correction
 
 ### Stock Crash
 A stock market correction happens when the stock market drops by 10% or more. A stock crash is a sudden, very sharp drop in stock prices, like in October 1987 when stocks plunged 23% in a single day. Or 6 months ago, when the Dow Jones dropped 46% in April. While crashes can herald a bear market, remember what we mentioned above: Most bull markets last longer than bear markets — which means stock markets tend to rise in value over time. If you're worried about a crash, it helps to focus on the long term. When the stock market declines, it can be difficult to watch your portfolio’s value shrink in real time and do nothing about it. However, if you’re investing for the long term, doing nothing is often the best course.
+
+### Installation(User)
+If you want to add our bot to your server, you may follow this step.
+
+First, click on this link.
+https://discord.com/oauth2/authorize?client_id=767123765287976980&scope=bot
+
