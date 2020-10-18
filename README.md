@@ -61,3 +61,15 @@ https://discord.com/oauth2/authorize?client_id=767123765287976980&scope=bot
 
 Next, add the bot to any server you own and authorize the server. Enjoy!
 ![Demo1](https://github.com/nguyenkevins/StockBot-Discord/blob/main/AddToServer.png)
+
+## Installation(Dev)
+Work-In-Progress
+
+## Issue
+Work-In-Progress
+
+## Team/Contributor
+'''mqsql
+Hello
+
+'''
