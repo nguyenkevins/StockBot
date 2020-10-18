@@ -70,8 +70,8 @@ Work-In-Progress
 
 ## Team/Contributor
 ```
-Danh Lai (Team Manager/Finance Researcher)
-Jongseok Jung (Database)
-Kray Nguyen (Data Scrap)
-Kevin Nguyen (Data Scrap)
+Jongseok Jung -> Database Developer
+Danh Lai -> Finance Researcher
+Kray Nguyen -> Data Extraction
+Kevin Nguyen -> Data Extraction
 ```
