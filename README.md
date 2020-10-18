@@ -9,7 +9,7 @@
 - [Research](#Research)
 - [Installation(User)](#Installation(User))
 - [Installation(Dev)](#Installation(Dev))
-- [Issue](#Issue)
+- [Work-In-Progress](#Work-In-Progress)
 - [Team/Contributor](#Team/Contributor)
 
 ## About
@@ -65,8 +65,11 @@ Next, add the bot to any server you own and authorize the server. Enjoy!
 ## Installation(Dev)
 Work-In-Progress
 
-## Issue
-Work-In-Progress
+## Work-In-Progress
+- Finish implement Buy/Sell Paper Trading
+- Allow users to hold multiple company stocks
+- Add visual data to Discord
+- Better code organization
 
 ## Team/Contributor
 ```
