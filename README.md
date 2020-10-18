@@ -19,6 +19,7 @@ This is a project created during dubhacks/hackathon, which uses Discord.py API. 
 
 **Audience** - Teenagers/young adults who wants to learn about stocks through experience with fake money (HAS TO BE FAMILIAR WITH DISCORD) 
 
+We chose to use Discord.py as our tool because we want to use it as our first step approch to displaying data. We plan on moving to HTML5/Mobile App later in the future.
 
 ## Potential Feature
 Our team's main focus is to prioritize simplicity and organization as much as possible using Discord commands.
@@ -26,3 +27,5 @@ Our team's main focus is to prioritize simplicity and organization as much as po
 - Display basic info about a stock
 - Look at specific info about a stock
 - Display detailed info about a stock
+
+## Research
