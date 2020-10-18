@@ -12,6 +12,4 @@
 - [Common Issue](#heading-5)
 - [Team / Contributor](#heading-6)
 
-## Heading
-
-This is an h1 heading
+## About
