@@ -69,7 +69,9 @@ Work-In-Progress
 Work-In-Progress
 
 ## Team/Contributor
-'''mqsql
-Hello
-
-'''
+```
+Danh Lai (Team Manager/Finance Researcher)
+Jongseok Jung (Database)
+Kray Nguyen (Data Scrap)
+Kevin Nguyen (Data Scrap)
+```
