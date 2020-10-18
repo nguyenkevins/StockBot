@@ -18,3 +18,10 @@ This is a project created during dubhacks/hackathon, which uses Discord.py API. 
 **Problem** - Bored during COVID-19 and this is a good time to learn about and invest in stocks. Build a learning platform via discord and web app (canvas + blueprint). 
 
 **Audience** - Teenagers/young adults who wants to learn about stocks through experience with fake money (HAS TO BE FAMILIAR WITH DISCORD) 
+
+
+## Potential Feature
+- Buy/Sell stocks
+- Display basic info about a stock
+- Look at specific info about a stock
+- Display detailed info about a stock
