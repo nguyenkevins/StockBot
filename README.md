@@ -13,4 +13,4 @@
 - [Team / Contributor](#heading-6)
 
 ## About
-This is a project created during dubhacks/hackathon, which uses Discord.py API. 
+This is a project created during dubhacks/hackathon, which uses Discord.py API. Inspired by many stock trading platforms, we wanted to create an easier way for users to learn about the stock market, especially during these boring times of the COVID-19 epicdemic. This is a good time to invest and learn about stocks.
