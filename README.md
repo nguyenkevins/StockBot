@@ -13,3 +13,4 @@
 - [Team / Contributor](#heading-6)
 
 ## About
+This is a project created during dubhacks/hackathon, which uses Discord.py API. 
