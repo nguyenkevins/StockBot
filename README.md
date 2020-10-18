@@ -29,12 +29,9 @@ Our team's main focus is to prioritize simplicity and organization as much as po
 - Display detailed info about a stock
 
 ## Research
-Basic Understand about stock market 
 The stock market is made up of exchanges, like the New York Stock Exchange and the Nasdaq. Stocks are listed on a specific exchange, which brings buyers and sellers together and acts as a market for the shares of those stocks. The exchange tracks the supply and demand — and directly related, the price — of each stock.
 But this isn’t your typical market, and you can’t show up and pick your shares off a shelf the way you select produce at the grocery store. Individual traders are typically represented by brokers — these days, that’s often an online broker. You place your stock trades through the broker, which then deals with the exchange on your behalf. (Broker you should use for Beginner : ( Robinhood, TD American, Acorn,.. )
 The NYSE and the Nasdaq are open from 9:30 a.m. to 4 p.m. Eastern, with premarket and after-hours trading sessions also available, depending on your broker. 
-
-
 
 When people refer to the stock market being up or down, they’re generally referring to one of the major market indexes.
 A market index tracks the performance of a group of stocks, which either represents the market as a whole or a specific sector of the market, like technology or retail companies. You’re likely to hear most about the S&P 500, the Nasdaq composite and the Dow Jones Industrial Average; they are often used as proxies for the performance of the overall market.
@@ -44,7 +41,6 @@ Understand about the stock market
 Most investors would be well-advised to build a diversified portfolio of stocks or stock index funds and hold on to it through good times and bad. But investors who like a little more action engage in stock trading. Stock trading involves buying and selling stocks frequently in an attempt to time the market.
 The goal of stock traders is to capitalize on short-term market events to sell stocks for a profit, or buy stocks at a low. Some stock traders are day traders, which means they buy and sell several times throughout the day. Others are simply active traders, placing a dozen or more trades per month. (Interested in individual stocks? View our list of the best-performing stocks this year.)
 Investors who trade stocks do extensive research, often devoting hours a day to following the market. They rely on technical analysis, using tools to chart a stock's movements in an attempt to find trading opportunities and trends. Many online brokers offer stock trading information, including analyst reports, stock research and charting tools.
-
 
 Bull Market vs Bear Market  
 Neither is an animal you’d want to run into on a hike, but the market has picked the bear as the true symbol of fear: A Bear market  means stock prices are falling — thresholds vary, but generally to the tune of 20% or more — across several of the indexes referenced earlier.
