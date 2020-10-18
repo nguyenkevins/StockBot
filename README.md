@@ -4,11 +4,11 @@
 ![Demo1](https://github.com/nguyenkevins/StockBot-Discord/blob/main/StockBot-Discord.png)
 
 ## Table of Content
-- [About](#heading0)
-- [Feature](#heading1)
-- [Research](#heading2)
-- [Installation (User)](#heading3)
-- [Installation (Dev)](#heading4)
-- [Common Issue](#heading5)
-- [Team / Contributor](#heading6)
+- [About](#heading)
+- [Feature](#heading-1)
+- [Research](#heading-2)
+- [Installation (User)](#heading-3)
+- [Installation (Dev)](#heading-4)
+- [Common Issue](#heading-5)
+- [Team / Contributor](#heading-6)
 
