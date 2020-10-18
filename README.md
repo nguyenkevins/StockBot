@@ -7,10 +7,10 @@
 - [About](#About)
 - [Feature](#Feature)
 - [Research](#Research)
-- [Installation (User)](#heading-3)
-- [Installation (Dev)](#heading-4)
-- [Common Issue](#heading-5)
-- [Team / Contributor](#heading-6)
+- [Installation(User)](#Installation(User))
+- [Installation(Dev)](#Installation(Dev))
+- [Issue](#Issue)
+- [Team/Contributor](#Team/Contributor)
 
 ## About
 This is a project created during dubhacks/hackathon, which uses Discord.py API. Inspired by many stock trading platforms, we wanted to create an easier way for users to learn about the stock market, especially during these boring times of the COVID-19 epicdemic. This is a good time to invest and learn about stocks.
