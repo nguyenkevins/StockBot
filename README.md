@@ -60,3 +60,5 @@ If you want to add our bot to your server, you may follow this step.
 First, click on this link.
 https://discord.com/oauth2/authorize?client_id=767123765287976980&scope=bot
 
+
+![Demo1](https://github.com/nguyenkevins/StockBot-Discord/blob/main/AddToServer.png)
