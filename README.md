@@ -21,7 +21,7 @@ This is a project created during dubhacks/hackathon, which uses Discord.py API. 
 
 We chose to use Discord.py as our tool because we want to use it as our first step approch to displaying data. We plan on moving to HTML5/Mobile App later in the future.
 
-## Potential Feature
+## Feature
 Our team's main focus is to prioritize simplicity and organization as much as possible using Discord commands.
 - Buy/Sell stocks
 - Display basic info about a stock
