@@ -4,9 +4,9 @@
 ![Demo1](https://github.com/nguyenkevins/StockBot-Discord/blob/main/StockBot-Discord.png)
 
 ## Table of Content
-- [About](#heading)
-- [Feature](#heading-1)
-- [Research](#heading-2)
+- [About](#About)
+- [Feature](#Feature)
+- [Research](#Research)
 - [Installation (User)](#heading-3)
 - [Installation (Dev)](#heading-4)
 - [Common Issue](#heading-5)
