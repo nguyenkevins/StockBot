@@ -29,7 +29,7 @@ Our team's main focus is to prioritize simplicity and organization as much as po
 - Display detailed info about a stock
 
 ## Research
-###Introduction
+### Introduction
 The stock market is made up of exchanges, like the New York Stock Exchange and the Nasdaq. Stocks are listed on a specific exchange, which brings buyers and sellers together and acts as a market for the shares of those stocks. The exchange tracks the supply and demand — and directly related, the price — of each stock.
 But this isn’t your typical market, and you can’t show up and pick your shares off a shelf the way you select produce at the grocery store. Individual traders are typically represented by brokers — these days, that’s often an online broker. You place your stock trades through the broker, which then deals with the exchange on your behalf. (Broker you should use for Beginner : ( Robinhood, TD American, Acorn,.. )
 The NYSE and the Nasdaq are open from 9:30 a.m. to 4 p.m. Eastern, with premarket and after-hours trading sessions also available, depending on your broker. 
