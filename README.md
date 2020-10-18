@@ -72,6 +72,6 @@ Work-In-Progress
 ```
 Jongseok Jung    -> Database Developer
 Danh Lai         -> Finance Researcher
-Kray Nguyen      -> Data Extraction
-Kevin Nguyen     -> Data Extraction
+Kray Nguyen      -> Data Extracter
+Kevin Nguyen     -> Data Extracter
 ```
